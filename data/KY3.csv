@@ -1,0 +1,241 @@
+year,winner,jockey,trainer,owner,distance,track_condition,time_string,time_sec,triple_crown_winner,Year_winner,Owner,Earnings,Earnings_2022
+2022.0,Rich Strike,Sonny Leon,Eric Reed,RED TR-Racing,1.25,Fast,02:02.6,122.61,False,,,,
+2021.0,Mandaloun,Florent Geroux,Brad H. Cox,Juddmonte Farm,1.25,Fast,02:01.0,121.02,False,,,,
+2020.0,Authentic,John Velazquez,Bob Baffert,"Spendthrift Farm LLC, MyRaceHorse Stable, Madaket Stables LLC, Starlight Racing",1.25,Fast,02:00.6,120.61,False,,,,
+2019.0,Country House,Flavien Prat,Bill Mott,"Mrs. J.V. Shields Jr., E. J. M. McFadden Jr. and LNJ Foxwoods",1.25,Sloppy,02:03.9,123.93,False,,,,
+2018.0,Justify,Mike E. Smith,Bob Baffert,"China Horse Club, Head of Plains Partners, Starlight Racing, WinStar Farm",1.25,Sloppy,02:04.2,124.2,True,,,,
+2017.0,Always Dreaming,John Velazquez,Todd Pletcher,"MeB Racing, Brooklyn Boyz, Teresa Viola, St. Elias, Siena Farm, West Point",1.25,Wet Fast (sealed),02:03.6,123.59,False,,,,
+2016.0,Nyquist,Mario Gutierrez,Doug O'Neill,J. Paul Reddam,1.25,Fast,02:01.3,121.31,False,,,,
+2015.0,American Pharoah,Victor Espinoza,Bob Baffert,"Zayat Stables, LLC",1.25,Fast,02:03.0,123.02,True,,,,
+2014.0,California Chrome,Victor Espinoza,Art Sherman,Steve Coburn & Perry Martin,1.25,Fast,02:03.7,123.66,False,,,,
+2013.0,Orb,Joel Rosario,Claude McGaughey III,Stuart S. Janney III & Phipps Stable,1.25,Sloppy,02:02.9,122.89,False,,,,
+2012.0,I'll Have Another,Mario Gutierrez,Doug O'Neill,J. Paul Reddam,1.25,Fast,02:01.8,121.83,False,,,,
+2011.0,Animal Kingdom,John Velazquez,H. Graham Motion,Team Valor International,1.25,Fast,02:02.0,122.04,False,,,,
+2010.0,Super Saver,Calvin Borel,Todd Pletcher,WinStar Farm,1.25,Sloppy,02:04.5,124.45,False,,,,
+2009.0,Mine That Bird,Calvin Borel,Bennie L. Woolley Jr.,Double Eagle Ranch et al.,1.25,Sloppy,02:02.7,122.66,False,,,,
+2008.0,Big Brown,Kent Desormeaux,Richard E. Dutrow Jr.,IEAH Stables / P. Pompa,1.25,Fast,02:01.8,121.82,False,,,,
+2007.0,Street Sense,Calvin Borel,Carl Nafzger,James B. Tafel,1.25,Fast,02:02.2,122.17,False,,,,
+2006.0,Barbaro,Edgar Prado,Michael R. Matz,Lael Stables,1.25,Fast,02:01.4,121.36,False,,,,
+2005.0,Giacomo,Mike E. Smith,John Shirreffs,Jerry & Ann Moss,1.25,Fast,02:02.8,122.75,False,,,,
+2004.0,Smarty Jones,Stewart Elliott,John Servis,Someday Farm,1.25,Sloppy,02:04.1,124.06,False,,,,
+2003.0,Funny Cide,José A. Santos,Barclay Tagg,Sackatoga Stable,1.25,Fast,02:01.2,121.19,False,,,,
+2002.0,War Emblem,Victor Espinoza,Bob Baffert,Thoroughbred Corp.,1.25,Fast,02:01.1,121.13,False,,,,
+2001.0,Monarchos,Jorge F. Chavez,John T. Ward Jr.,John C. Oxley,1.25,Fast,02:00.0,119.97,False,,,,
+2000.0,Fusaichi Pegasus,Kent Desormeaux,Neil Drysdale,Fusao Sekiguchi,1.25,Fast,02:01.0,121.0,False,,,,
+1999.0,Charismatic,Chris Antley,D. Wayne Lukas,Bob & Beverly Lewis,1.25,Fast,02:03.2,123.2,False,,,,
+1998.0,Real Quiet,Kent Desormeaux,Bob Baffert,Michael E. Pegram,1.25,Fast,02:02.2,122.2,False,,,,
+1997.0,Silver Charm,Gary Stevens,Bob Baffert,Bob & Beverly Lewis,1.25,Fast,02:02.4,122.4,False,,,,
+1996.0,Grindstone,Jerry Bailey,D. Wayne Lukas,Overbrook Farm,1.25,Fast,02:01.0,121.0,False,,,,
+1995.0,Thunder Gulch,Gary Stevens,D. Wayne Lukas,Michael Tabor,1.25,Fast,02:01.2,121.2,False,,,,
+1994.0,Go for Gin,Chris McCarron,Nick Zito,William J. Condren & Joseph M. Cornacchia,1.25,Sloppy,02:03.6,123.6,False,,,,
+1993.0,Sea Hero,Jerry Bailey,MacKenzie Miller,Rokeby Stables,1.25,Fast,02:02.4,122.4,False,,,,
+1992.0,Lil E. Tee,Pat Day,Lynn S. Whiting,W. Cal Partee,1.25,Fast,02:03.0,123.0,False,,,,
+1991.0,Strike the Gold,Chris Antley,Nick Zito,BCC Stable,1.25,Fast,02:03.0,123.0,False,,,,
+1990.0,Unbridled,Craig Perret,Carl Nafzger,Frances A. Genter,1.25,Good,02:02.0,122.0,False,,,,
+1989.0,Sunday Silence,Pat Valenzuela,Charlie Whittingham,H-G-W Partners,1.25,Muddy,02:05.0,125.0,False,,,,
+1988.0,Winning Colors,Gary Stevens,D. Wayne Lukas,Eugene V. Klein,1.25,Fast,02:02.2,122.2,False,,,,
+1987.0,Alysheba,Chris McCarron,Jack Van Berg,D. & P. Scharbauer,1.25,Fast,02:03.4,123.4,False,,,,
+1986.0,Ferdinand,Bill Shoemaker,Charlie Whittingham,Elizabeth A. Keck,1.25,Fast,02:02.8,122.8,False,,,,
+1985.0,Spend A Buck,Ángel Cordero Jr.,Cam Gambolati,Dennis Diaz,1.25,Fast,02:00.2,120.2,False,,,,
+1984.0,Swale,Laffit Pincay Jr.,Woody Stephens,Claiborne Farm,1.25,Fast,02:02.4,122.4,False,,,,
+1983.0,Sunny's Halo,Eddie Delahoussaye,David C. Cross Jr.,David J. Foster Stable,1.25,Fast,02:02.2,122.2,False,,,,
+1982.0,Gato Del Sol,Eddie Delahoussaye,Edwin J. Gregson,Hancock & Peters,1.25,Fast,02:02.4,122.4,False,,,,
+1981.0,Pleasant Colony,Jorge Velásquez,John P. Campo,Buckland Farm,1.25,Fast,02:02.0,122.0,False,,,,
+1980.0,Genuine Risk,Jacinto Vásquez,LeRoy Jolley,Diana M. Firestone,1.25,Fast,02:02.0,122.0,False,,,,
+1979.0,Spectacular Bid,Ronnie Franklin,Bud Delp,Hawksworth Farm,1.25,Fast,02:02.4,122.4,False,,,,
+1978.0,Affirmed,Steve Cauthen,Laz Barrera,Harbor View Farm,1.25,Fast,02:01.2,121.2,True,,,,
+1977.0,Seattle Slew,Jean Cruguet,William H. Turner Jr.,Karen L. Taylor,1.25,Fast,02:02.2,122.2,True,,,,
+1976.0,Bold Forbes,Ángel Cordero Jr.,Laz Barrera,E. Rodriguez Tizol,1.25,Fast,02:01.6,121.6,False,,,,
+1975.0,Foolish Pleasure,Jacinto Vásquez,LeRoy Jolley,John L. Greer,1.25,Fast,02:02.0,122.0,False,,,,
+1974.0,Cannonade,Ángel Cordero Jr.,Woody Stephens,John M. Olin,1.25,Fast,02:04.0,124.0,False,,,,
+1973.0,Secretariat,Ron Turcotte,Lucien Laurin,Meadow Stable,1.25,Fast,01:59.4,119.4,True,,,,
+1972.0,Riva Ridge,Ron Turcotte,Lucien Laurin,Meadow Stud,1.25,Fast,02:01.8,121.8,False,,,,
+1971.0,Canonero II,Gustavo Ávila,Juan Arias,Edgar Caibett,1.25,Fast,02:03.2,123.2,False,,,,
+1970.0,Dust Commander,Mike Manganello,Don Combs,Robert E. Lehmann,1.25,Good,02:03.4,123.4,False,,,,
+1969.0,Majestic Prince,Bill Hartack,Johnny Longden,Frank M. McMahon,1.25,Fast,02:01.8,121.8,False,,,,
+1968.0,Forward Pass,Ismael Valenzuela,Henry Forrest,Calumet Farm,1.25,Fast,02:02.2,122.2,False,,,,
+1967.0,Proud Clarion,Bobby Ussery,Loyd Gentry Jr.,Darby Dan Farm,1.25,Fast,02:00.6,120.6,False,,,,
+1966.0,Kauai King,Don Brumfield,Henry Forrest,Ford Stable,1.25,Fast,02:02.0,122.0,False,,,,
+1965.0,Lucky Debonair,Bill Shoemaker,Frank Catrone,Ada L. Rice,1.25,Fast,02:01.2,121.2,False,,,,
+1964.0,Northern Dancer,Bill Hartack,Horatio Luro,Windfields Farm,1.25,Fast,02:00.0,120.0,False,,,,
+1963.0,Chateaugay,Braulio Baeza,James P. Conway,Darby Dan Farm,1.25,Fast,02:01.8,121.8,False,,,,
+1962.0,Decidedly,Bill Hartack,Horatio Luro,El Peco Ranch,1.25,Fast,02:00.4,120.4,False,,,,
+1961.0,Carry Back,Johnny Sellers,Jack A. Price,Katherine Price,1.25,Good,02:04.0,124.0,False,,,,
+1960.0,Venetian Way,Bill Hartack,Victor J. Sovinski,Sunny Blue Farm,1.25,Good,02:02.4,122.4,False,,,,
+1959.0,Tomy Lee,Bill Shoemaker,Frank E. Childs,Fred & Juliette Turner,1.25,Fast,02:02.2,122.2,False,,,,
+1958.0,Tim Tam,Ismael Valenzuela,Jimmy Jones,Calumet Farm,1.25,Muddy,02:05.0,125.0,False,,,,
+1957.0,Iron Liege,Bill Hartack,Jimmy Jones,Calumet Farm,1.25,Fast,02:02.2,122.2,False,,,,
+1956.0,Needles,David Erb,Hugh L. Fontaine,D & H Stable,1.25,Fast,02:03.4,123.4,False,,,,
+1955.0,Swaps,Bill Shoemaker,Mesh Tenney,Rex C. Ellsworth,1.25,Fast,02:01.8,121.8,False,,,,
+1954.0,Determine,Raymond York,William Molter,Andrew J. Crevolin,1.25,Fast,02:03.0,123.0,False,,,,
+1953.0,Dark Star,Henry E. Moreno,Eddie Hayward,Cain Hoy Stable,1.25,Fast,02:02.0,122.0,False,,,,
+1952.0,Hill Gail,Eddie Arcaro,Ben A. Jones,Calumet Farm,1.25,Fast,02:01.6,121.6,False,,,,
+1951.0,Count Turf,Conn McCreary,Sol Rutchick,Jack J. Amiel,1.25,Fast,02:02.6,122.6,False,,,,
+1950.0,Middleground,William Boland,Max Hirsch,King Ranch,1.25,Fast,02:01.6,121.6,False,,,,
+1949.0,Ponder,Steve Brooks,Ben A. Jones,Calumet Farm,1.25,Fast,02:04.2,124.2,False,,,,
+1948.0,Citation,Eddie Arcaro,Ben A. Jones,Calumet Farm,1.25,Sloppy,02:05.4,125.4,True,,,,
+1947.0,Jet Pilot,Eric Guerin,Tom Smith,Maine Chance Farm,1.25,Slow,02:06.8,126.8,False,,,,
+1946.0,Assault,Warren Mehrtens,Max Hirsch,King Ranch,1.25,Slow,02:06.6,126.6,True,,,,
+1945.0,Hoop Jr.,Eddie Arcaro,Ivan H. Parke,Fred W. Hooper,1.25,Muddy,02:07.0,127.0,False,,,,
+1944.0,Pensive,Conn McCreary,Ben A. Jones,Calumet Farm,1.25,Good,02:04.2,124.2,False,,,,
+1943.0,Count Fleet,Johnny Longden,Don Cameron,Fannie Hertz,1.25,Fast,02:04.0,124.0,True,,,,
+1942.0,Shut Out,Wayne D. Wright,John M. Gaver Sr.,Greentree Stable,1.25,Fast,02:04.4,124.4,False,,,,
+1941.0,Whirlaway,Eddie Arcaro,Ben A. Jones,Calumet Farm,1.25,Fast,02:01.4,121.4,True,,,,
+1940.0,Gallahadion,Carroll Bierman,Roy Waldron,Milky Way Farm,1.25,Fast,02:05.0,125.0,False,,,,
+1939.0,Johnstown,James Stout,Jim Fitzsimmons,Belair Stud,1.25,Fast,02:03.4,123.4,False,,,,
+1938.0,Lawrin,Eddie Arcaro,Ben A. Jones,Herbert M. Woolf,1.25,Fast,02:04.8,124.8,False,,,,
+1937.0,War Admiral,Charley Kurtsinger,George Conway,Glen Riddle Farm,1.25,Fast,02:03.2,123.2,True,,,,
+1936.0,Bold Venture,Ira Hanford,Max Hirsch,Morton L. Schwartz,1.25,Fast,02:03.6,123.6,False,,,,
+1935.0,Omaha,Willie Saunders,Jim Fitzsimmons,Belair Stud,1.25,Good,02:05.0,125.0,True,,,,
+1934.0,Cavalcade,Mack Garner,Bob Smith,Brookmeade Stable,1.25,Fast,02:04.0,124.0,False,,,,
+1933.0,Brokers Tip,Don Meade,Herbert J. Thompson,Edward R. Bradley,1.25,Good,02:06.8,126.8,False,,,,
+1932.0,Burgoo King,Eugene James,Herbert J. Thompson,Edward R. Bradley,1.25,Fast,02:05.2,125.2,False,,,,
+1931.0,Twenty Grand,Charley Kurtsinger,James G. Rowe Jr.,Greentree Stable,1.25,Fast,02:01.8,121.8,False,,,,
+1930.0,Gallant Fox,Earl Sande,Jim Fitzsimmons,Belair Stud,1.25,Good,02:07.6,127.6,True,,,,
+1929.0,Clyde Van Dusen,Linus McAtee,Clyde Van Dusen,Herbert P. Gardner,1.25,Muddy,02:10.8,130.8,False,,,,
+1928.0,Reigh Count,Chick Lang,Bert S. Michell,Fannie Hertz,1.25,Heavy,02:10.4,130.4,False,,,,
+1927.0,Whiskery,Linus McAtee,Fred Hopkins,Harry P. Whitney,1.25,Slow,02:06.0,126.0,False,,,,
+1926.0,Bubbling Over,Albert Johnson,Herbert J. Thompson,Edward R. Bradley,1.25,Fast,02:03.8,123.8,False,,,,
+1925.0,Flying Ebony,Earl Sande,William B. Duke,Gifford A. Cochran,1.25,Sloppy,02:07.6,127.6,False,,,,
+1924.0,Black Gold,J. D. Mooney,Hanley Webb,Rosa M. Hoots,1.25,Fast,02:05.2,125.2,False,,,,
+1923.0,Zev,Earl Sande,David J. Leary,Rancocas Stable,1.25,Fast,02:05.4,125.4,False,,,,
+1922.0,Morvich,Albert Johnson,Fred Burlew,Benjamin Block,1.25,Fast,02:04.6,124.6,False,,,,
+1921.0,Behave Yourself,Charles Thompson,Herbert J. Thompson,Edward R. Bradley,1.25,Fast,02:04.2,124.2,False,,,,
+1920.0,Paul Jones,Ted Rice,William M. Garth,Ral Parr,1.25,Slow,02:09.0,129.0,False,,,,
+1919.0,Sir Barton,Johnny Loftus,H. Guy Bedwell,J. K. L. Ross,1.25,Heavy,02:09.8,129.8,True,,,,
+1918.0,Exterminator,Willie Knapp,Henry McDaniel,Willis Sharpe Kilmer,1.25,Muddy,02:10.8,130.8,False,,,,
+1917.0,Omar Khayyam,Charles Borel,Charles T. Patterson,Billings & Johnson,1.25,Fast,02:04.6,124.6,False,,,,
+1916.0,George Smith,Johnny Loftus,Hollie Hughes,John Sanford,1.25,Fast,02:04.0,124.0,False,,,,
+1915.0,Regret,Joe Notter,James G. Rowe Sr.,Harry P. Whitney,1.25,Fast,02:05.4,125.4,False,,,,
+1914.0,Old Rosebud,John McCabe,Frank D. Weir,Hamilton C. Applegate,1.25,Fast,02:03.4,123.4,False,,,,
+1913.0,Donerail,Roscoe Goose,Thomas P. Hayes,Thomas P. Hayes,1.25,Fast,02:04.8,124.8,False,,,,
+1912.0,Worth,Carroll H. Shilling,Frank M. Taylor,Harry C. Hallenbeck,1.25,Muddy,02:09.4,129.4,False,,,,
+1911.0,Meridian,George Archibald,Albert Ewing,Richard F. Carman,1.25,Fast,02:05.0,125.0,False,,,,
+1910.0,Donau,Frederick Herbert,George Ham,William Gerst,1.25,Fast,02:06.4,126.4,False,,,,
+1909.0,Wintergreen,Vincent Powers,Charles Mack,Jerome B. Respess,1.25,Slow,02:08.2,128.2,False,,,,
+1908.0,Stone Street,Arthur Pickens,J. W. Hall,C. E. & J. W. Hamilton,1.25,Heavy,02:15.2,135.2,False,,,,
+1907.0,Pink Star,Andy Minder,William H. Fizer,J. Hal Woodford,1.25,Heavy,02:12.6,132.6,False,,,,
+1906.0,Sir Huon,Roscoe Troxler,Pete Coyne,Bashford Manor Stable,1.25,Fast,02:08.8,128.8,False,,,,
+1905.0,Agile,Jack Martin,Robert Tucker,Samuel S. Brown,1.25,Heavy,02:10.8,130.75,False,,,,
+1904.0,Elwood,Shorty Prior,Charles E. Durnell,Lasca Durnell,1.25,Fast,02:08.5,128.5,False,,,,
+1903.0,Judge Himes,Harold Booker,John P. Mayberry,Charles R. Ellison,1.25,Fast,02:09.0,129.0,False,,,,
+1902.0,Alan-a-Dale,Jimmy Winkfield,Thomas C. McDowell,Thomas C. McDowell,1.25,Fast,02:08.8,128.75,False,,,,
+1901.0,His Eminence,Jimmy Winkfield,Frank B. Van Meter,Frank B. Van Meter,1.25,Fast,02:07.8,127.75,False,,,,
+1900.0,Lieut. Gibson,Jimmy Boland,Charles H. Hughes,Charles Head Smith,1.25,Fast,02:06.2,126.25,False,,,,
+1899.0,Manuel,Fred Taral,Robert J. Walden,A. H. & D. H. Morris,1.25,Fast,02:12.0,132.0,False,,,,
+1898.0,Plaudit,Willie Simms,John E. Madden,John E. Madden,1.25,Good,02:09.0,129.0,False,,,,
+1897.0,Typhoon II,Buttons Garner,Julius C. Cahn,Julius C. Cahn,1.25,Heavy,02:12.5,132.5,False,,,,
+1896.0,Ben Brush,Willie Simms,Hardy Campbell Jr.,Mike F. Dwyer,1.25,Fast,02:07.8,127.75,False,,,,
+1895.0,Halma,James Perkins,Byron McClelland,Byron McClelland,1.5,Fast,02:37.5,157.5,False,,,,
+1894.0,Chant,Frank Goodale,H. Eugene Leigh,H. Eugene Leigh & Robert L. Rose,1.5,Fast,02:41.0,161.0,False,,,,
+1893.0,Lookout,Eddie Kunze,William McDaniel,Cushing & Orth,1.5,Fast,02:39.3,159.25,False,,,,
+1892.0,Azra,Alonzo Clayton,John H. Morris,Bashford Manor Stable,1.5,Heavy,02:41.5,161.5,False,,,,
+1891.0,Kingman,Isaac Murphy,Dud Allen,Jacobin Stable,1.5,Fast,02:52.3,172.25,False,,,,
+1890.0,Riley,Isaac Murphy,Edward Corrigan,Edward Corrigan,1.5,Muddy,02:45.0,165.0,False,,,,
+1889.0,Spokane,Thomas Kiley,John Rodegap,Noah Armstrong,1.5,Fast,02:34.5,154.5,False,,,,
+1888.0,Macbeth II,George Covington,John Campbell,Chicago Stable,1.5,Fast,02:38.3,158.25,False,,,,
+1887.0,Montrose,Isaac Lewis,John McGinty,Labold Brothers,1.5,Fast,02:39.3,159.25,False,,,,
+1886.0,Ben Ali,Paul Duffy,Jim Murphy,J. B. A. Haggin,1.5,Fast,02:36.5,156.5,False,,,,
+1885.0,Joe Cotton,Erskine Henderson,Abraham Perry,James T. Williams,1.5,Good,02:37.3,157.25,False,,,,
+1884.0,Buchanan,Isaac Murphy,William Bird,Samuel S. Brown & William Cottrill,1.5,Good,02:40.3,160.25,False,,,,
+1883.0,Leonatus,William Donohue,Raleigh Colston Sr.,Jack P. Chinn & George W. Morgan,1.5,Heavy,02:43.0,163.0,False,,,,
+1882.0,Apollo,Babe Hurd,Green B. Morris,Morris & Patton,1.5,Fast,02:40.3,160.25,False,,,,
+1881.0,Hindoo,Jim McLaughlin,James G. Rowe Sr.,Dwyer Bros. Stable,1.5,Fast,02:40.0,160.0,False,,,,
+1880.0,Fonso,George Lewis,Tice Hutsell,J. Snell Shawhan,1.5,Fast,02:37.5,157.5,False,,,,
+1879.0,Lord Murphy,Charlie Shauer,George Rice,Darden & Co,1.5,Fast,02:37.0,157.0,False,,,,
+1878.0,Day Star,Jimmy Carter,Lee Paul,Thomas J. Nichols,1.5,Fast,02:37.3,157.25,False,,,,
+1877.0,Baden-Baden,Billy Walker,Edward D. Brown,Daniel Swigert,1.5,Fast,02:38.0,158.0,False,,,,
+1876.0,Vagrant,Robert Swim,James Williams,William Astor Jr.,1.5,Fast,02:38.3,158.25,False,,,,
+1875.0,Aristides,Oliver Lewis,Ansel Williamson,H. Price McGrath,1.5,Fast,02:37.7,157.75,False,,,,
+,,,,,,,,,,1930: Gallant Fox, Belair Stud,"$328,165 ","$5,582,766 "
+,,,,,,,,,,1931: Twenty Grand, Greentree Stable,"$261,790 ","$4,919,325 "
+,,,,,,,,,,1932: Burgoo King, Edward R. Bradley,"$110,940 ","$2,328,153 "
+,,,,,,,,,,1933: Brokers Tip, Edward R. Bradley,"$49,600 ","$1,131,762 "
+,,,,,,,,,,1934: Cavalcade, Brookmeade Stable,"$127,165 ","$2,748,906 "
+,,,,,,,,,,1935: Omaha, Belair Stud,"$154,075 ","$3,209,940 "
+,,,,,,,,,,1936: Bold Venture, Morton L. Schwartz,"$68,300 ","$1,433,323 "
+,,,,,,,,,,1937: War Admiral, Glen Riddle Farm,"$273,240 ","$5,455,388 "
+,,,,,,,,,,1938: Lawrin, Herbert M. Woolf,"$126,275 ","$2,574,792 "
+,,,,,,,,,,1939: Johnstown, Belair Stud,"$169,315 ","$3,527,445 "
+,,,,,,,,,,1940: Gallahadion, Milky Way Farm,"$92,620 ","$1,902,044 "
+,,,,,,,,,,1941: Whirlaway, Calumet Farm,"$561,161 ","$11,203,891 "
+,,,,,,,,,,1942: Shut Out, Greentree Stable,"$317,507 ","$5,600,278 "
+,,,,,,,,,,1943: Count Fleet, Fannie Hertz,"$250,300 ","$4,112,129 "
+,,,,,,,,,,1944: Pensive, Calumet Farm,"$167,715 ","$2,755,356 "
+,,,,,,,,,,1945: Hoop Jr., Fred W. Hooper,"$99,290 ","$1,594,764 "
+,,,,,,,,,,1946: Assault, King Ranch,"$675,470 ","$10,497,315 "
+,,,,,,,,,,1947: Jet Pilot, Maine Chance Farm,"$198,740 ","$2,609,066 "
+,,,,,,,,,,1948: Citation, Calumet Farm,"$1,085,760 ","$13,061,102 "
+,,,,,,,,,,1949: Ponder, Calumet Farm,"$541,275 ","$6,538,602 "
+,,,,,,,,,,1950: Middleground, King Ranch,"$237,725 ","$2,883,835 "
+,,,,,,,,,,1951: Count Turf, Jack J. Amiel,"$166,375 ","$1,846,852 "
+,,,,,,,,,,1952: Hill Gail, Calumet Farm,"$335,625 ","$3,655,058 "
+,,,,,,,,,,1953: Dark Star, Cain Hoy Stable,"$131,337 ","$1,414,229 "
+,,,,,,,,,,1954: Determine, Andrew J. Crevolin,"$573,600 ","$6,130,569 "
+,,,,,,,,,,1955: Swaps, Rex C. Ellsworth,"$848,900 ","$9,140,904 "
+,,,,,,,,,,1956: Needles, D & H Stable,"$600,355 ","$6,392,758 "
+,,,,,,,,,,1957: Iron Liege, Calumet Farm,"$404,169 ","$4,150,007 "
+,,,,,,,,,,1958: Tim Tam, Calumet Farm,"$467,475 ","$4,650,551 "
+,,,,,,,,,,1959: Tomy Lee, Fred & Juliette Turner,"$405,014 ","$4,015,281 "
+,,,,,,,,,,1960: Venetian Way, Sunny Blue Farm,"$359,422 ","$3,502,890 "
+,,,,,,,,,,1961: Carry Back, Katherine Price,"$1,241,165 ","$11,974,493 "
+,,,,,,,,,,1962: Decidedly, El Peco Ranch,"$318,989 ","$3,036,775 "
+,,,,,,,,,,1963: Chateaugay, Darby Dan Farm,"$360,722 ","$3,400,296 "
+,,,,,,,,,,1964: Northern Dancer, Windfields Farm,"$580,647 ","$5,402,535 "
+,,,,,,,,,,1965: Lucky Debonair, Ada L. Rice,"$370,960 ","$3,396,576 "
+,,,,,,,,,,1966: Kauai King, Ford Stable,"$381,397 ","$3,394,835 "
+,,,,,,,,,,1967: Proud Clarion, Darby Dan Farm,"$218,730 ","$1,894,149 "
+,,,,,,,,,,1968: Forward Pass, Calumet Farm,"$580,631 ","$4,838,659 "
+,,,,,,,,,,1969: Majestic Prince, Frank M. McMahon,"$414,200 ","$3,271,543 "
+,,,,,,,,,,1970: Dust Commander, Robert E. Lehmann,"$215,012 ","$1,601,472 "
+,,,,,,,,,,1971: Canonero II, Edgar Caibett,"$360,933 ","$2,574,930 "
+,,,,,,,,,,1972: Riva Ridge, Meadow Stud,"$1,111,497 ","$7,681,727 "
+,,,,,,,,,,1973: Secretariat, Meadow Stable,"$1,316,808 ","$8,623,863 "
+,,,,,,,,,,1974: Cannonade, John M. Olin,"$501,164 ","$2,964,746 "
+,,,,,,,,,,1975: Foolish Pleasure, John L. Greer,"$1,216,705 ","$6,575,330 "
+,,,,,,,,,,1976: Bold Forbes, E. Rodriguez Tizol,"$546,536 ","$2,781,085 "
+,,,,,,,,,,1977: Seattle Slew, Karen L. Taylor,"$1,208,726 ","$5,763,077 "
+,,,,,,,,,,1978: Affirmed, Harbor View Farm,"$2,393,818 ","$10,670,267 "
+,,,,,,,,,,1979: Spectacular Bid, Hawksworth Farm,"$2,781,608 ","$11,184,943 "
+,,,,,,,,,,1980: Genuine Risk, Diana M. Firestone,"$646,587 ","$2,272,572 "
+,,,,,,,,,,1981: Pleasant Colony, Buckland Farm,"$965,383 ","$3,090,774 "
+,,,,,,,,,,1982: Gato Del Sol, Hancock & Peters,"$1,340,107 ","$4,021,776 "
+,,,,,,,,,,1983: Sunny’s Halo, D. J. Foster Stable,"$1,247,791 ","$3,616,380 "
+,,,,,,,,,,1984: Swale, Claiborne Farm,"$1,583,660 ","$4,403,371 "
+,,,,,,,,,,1985: Spend a Buck, Dennis Diaz,"$4,220,689 ","$11,309,086 "
+,,,,,,,,,,1986: Ferdinand, Elizabeth A. Keck,"$3,777,978 ","$9,974,139 "
+,,,,,,,,,,1987: Alysheba, D. & P. Scharbauer,"$6,679,242 ","$16,978,858 "
+,,,,,,,,,,1988: Winning Colors, Eugene V. Klein,"$1,526,837 ","$3,735,930 "
+,,,,,,,,,,1989: Sunday Silence, H-G-W Partners,"$4,968,554 ","$11,538,604 "
+,,,,,,,,,,1990: Unbridled, Frances A. Genter,"$4,489,475 ","$9,990,263 "
+,,,,,,,,,,1991: Strike the Gold, BCC Stable,"$3,457,026 ","$7,329,711 "
+,,,,,,,,,,1992: Lil E. Tee, W. Cal Partee,"$1,437,506 ","$2,958,402 "
+,,,,,,,,,,1993: Sea Hero, Rokeby Stable,"$2,929,869 ","$5,841,533 "
+,,,,,,,,,,1994: Go for Gin, William J. Condren & Joseph M. Cornacchia,"$1,380,866 ","$2,691,556 "
+,,,,,,,,,,1995: Thunder Gulch, Michael Tabor,"$2,915,086 ","$5,506,563 "
+,,,,,,,,,,1996: Grindstone, Overbrook Farm,"$1,224,510 ","$2,248,094 "
+,,,,,,,,,,1997: Silver Charm, Robert B. & Beverly J. Lewis,"$6,944,369 ","$12,470,543 "
+,,,,,,,,,,1998: Real Quiet, Mike Pegram,"$3,271,802 ","$5,777,986 "
+,,,,,,,,,,1999: Charismatic, Robert B. & Beverly J. Lewis,"$2,038,064 ","$3,525,581 "
+,,,,,,,,,,2000: Fusaichi Pegasus, Fusao Sekiguchi,"$1,994,400 ","$3,343,428 "
+,,,,,,,,,,2001: Monarchos, John C. Oxley,"$1,720,830 ","$2,784,162 "
+,,,,,,,,,,2002: War Emblem, The Thoroughbred Corporation,"$3,491,000 ","$5,582,183 "
+,,,,,,,,,,2003: Funny Cide, Sackatoga Stable (Jackson Knowlton),"$3,529,412 ","$5,529,810 "
+,,,,,,,,,,2004: Smarty Jones, Someday Farm,"$7,613,155 ","$11,574,894 "
+,,,,,,,,,,2005: Giacomo, Mr. & Mrs. Jerome S. Moss,"$2,537,316 ","$3,752,513 "
+,,,,,,,,,,2006: Barbaro, Lael Stables (Roy & Gretchen Jackson),"$2,302,200 ","$3,268,601 "
+,,,,,,,,,,2007: Street Sense, James B. Tafel,"$4,383,200 ","$6,060,080 "
+,,,,,,,,,,2008: Big Brown, IEAH Stable (Michael Iavarone) and Paul P. Pompa Jr.,"$3,614,500 ","$4,796,998 "
+,,,,,,,,,,2009: Mine That Bird, Double Eagle Ranch & Bueno Suerte Equine,"$2,228,637 ","$2,996,138 "
+,,,,,,,,,,2010: Super Saver, WinStar Farm LLC.,"$1,889,766 ","$2,490,239 "
+,,,,,,,,,,2011: Animal Kingdom, Team Valor International,"$8,387,500 ","$10,671,788 "
+,,,,,,,,,,2012: I’ll Have Another, J. Paul Reddam,"$2,693,600 ","$3,369,757 "
+,,,,,,,,,,2013: Orb, Stuart Janney III & Phipps Stable (Ogden Mills “Dinny” Phipps),"$2,612,516 ","$3,224,404 "
+,,,,,,,,,,2014: California Chrome, Steve and Carolyn Coburn & Perry and Denise Martin,"$14,752,650 ","$17,916,354 "
+,,,,,,,,,,2015: American Pharoah, Ahmed Zayat,"$8,650,300 ","$10,458,131 "
+,,,,,,,,,,2016: Nyquist, Reddam Racing LLC,"$5,189,200 ","$6,210,390 "
+,,,,,,,,,,2017: Always Dreaming," Brooklyn Boyz Stables, Teresa Viola Racing Stables, Siena Farm LLC, West Point Thoroughbreds, MeB Racing Stables LLC, St. Elias Stables, LLC.","$2,415,860 ","$2,838,070 "
+,,,,,,,,,,2018: Justify," China Horse Club, Head of Plains Partners, Starlight Racing and WinStar Farms","$3,798,000 ","$4,340,192 "
+,,,,,,,,,,2019: Country House," Mrs. JV Shields, EJM McFadden and LNJ Foxwoods","$2,120,175 ","$2,380,234 "
+,,,,,,,,,,2020: Authentic," Spendthrift Farm LLC, MyRaceHorse Stable, Madaket Stables LLC and Starlight Racing","$7,201,200 ","$8,074,970 "
+,,,,,,,,,,2021: Mandaloun, Juddmonte Farms (Khalid Abdullah),"$2,041,252 ","$2,180,086 "

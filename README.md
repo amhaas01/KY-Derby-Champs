@@ -7,7 +7,8 @@ Requirements
 - Python 3.11.1
 - Jupyter
 - Pandas
-- seaborn
+- Numpy
+- Seaborn
 
 ## Instructions
 
