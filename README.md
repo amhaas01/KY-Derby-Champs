@@ -13,9 +13,9 @@ Requirements
 
 ## Challenges
 
-Review details from the 'discover.ipynb' notebook & Clean data via clean.py
+Review details from the 'discovery.ipynb' notebook & Clean data via clean.py
 
-Meeting Requirments using below features:
+Meeting Requirements using below features:
 1. Read in data from a local csv
 2. Remove unneeded columns 
 3. Replace missing data (NaN) with (-)
