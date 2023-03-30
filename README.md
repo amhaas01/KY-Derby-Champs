@@ -16,7 +16,7 @@ Requirements
 Review details from the 'discover.ipynb' notebook & Clean data via clean.py
 
 Meeting Requirments using below features:
-1. read in data from a local csv
+1. Read in data from a local csv
 2. Remove unneeded columns 
 3. Replace missing data (NaN) with (-)
 4. Combine data from data sets 
