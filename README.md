@@ -11,9 +11,13 @@ Requirements
 - Numpy
 - Seaborn
 
+## Instructions
+In python file 'clean.py' run command 'python clean.py'
+In jupyter notebook file 'analyze.ipynb' run all cells 
+
 ## Challenges
 
-Review details from the 'discovery.ipynb' notebook & Clean data via clean.py
+Review details from the 'discovery.ipynb' notebook & clean data via 'clean.py'
 
 Meeting Requirements using below features:
 1. Read in data from a local csv
